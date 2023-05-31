@@ -14,3 +14,4 @@ To access your flask application open new tab in and paste the url:
 ```
 https://{your_url}.pwskills.app:5000/
 ```
+![image](https://github.com/Chandan1307/Forest_Fire_Project/assets/107146517/a60d9e8e-55d1-4c75-93e3-708268d9599f)
